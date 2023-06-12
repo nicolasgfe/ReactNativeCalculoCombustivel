@@ -1,4 +1,4 @@
-import { isValidElement, useState } from "react"
+import React, { isValidElement, useState } from "react"
 import { TextInput, Text, View, Button } from "react-native"
 import imcStyles from "./styles"
 
